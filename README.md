@@ -5,8 +5,9 @@
 npm install
 ```
 ### Correr JSON server (requerido)
-
+```
 npm run json-server
+```
 ### Ejecutar Vue
 ```
 npm run serve
